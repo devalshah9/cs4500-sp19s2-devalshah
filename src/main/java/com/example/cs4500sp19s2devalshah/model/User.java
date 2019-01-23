@@ -6,6 +6,11 @@ public class User {
   private String password;
   private String firstName;
   private String lastName;
+
+  // constructor to create User objects
+  public User(int i, String alice, String alice1, String alice2, String wonderland) {
+  }
+
   // provide a public set and get method for each of the class variables above
   // make sure to use proper naming conventions for Java methods, e.g.,
   // methods should be camelcase. Here's an example using the firstName variable:
